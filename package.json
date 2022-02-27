@@ -1,0 +1,26 @@
+{
+  "name": "morpion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "start": "webpack server",
+    "sass": "sass -w scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loft897/morpion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loft897/morpion/issues"
+  },
+  "homepage": "https://github.com/loft897/morpion#readme",
+  "dependencies": {
+    "sass": "^1.49.9"
+  }
+}
